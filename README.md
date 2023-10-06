@@ -23,6 +23,77 @@ Dish Discovery is a recipe collection that aims to provide new and exciting meal
 Through discussion and the use of a persona and user stories we determined a number of features and assigned importance and an estimated difficulty to each one. From this process we were able to implement the following features:
 
 ### Existing Features
+**#01 AS A HOME CHEF**
+- **I WANT** to make quick meals for my family after school and work.
+- **SO THAT** I can feed my family tasty and nutritious food.
+
+
+![Local Image](assets/images/readme-images/UserStory1/UserStory1.1.png)
+
+-The navbar allows user to organise the recipe cards by time taken . 
+
+![Local Image](assets/images/readme-images/UserStory1/UserStory1.2.png)
+-The carousel allows user to select option ranked by time by clicking button this will take them to the time.html file. 
+
+![Local Image](assets/images/readme-images/UserStory1/UserStory1.3.png)
+
+-In the time.html file all stories are organised from shortest to longest time . These are also given the total cooking time within the button that links them to the recipe page. 
+
+![Local Image](assets/images/readme-images/UserStory1/UserStory1.4.png)
+
+- After clicking to the recipe page the Time is displayed in a button as well as in plain text below that spilts it into a preparation and cooking time.
+
+**#02 AS A HOME CHEF**
+- **I WANT** some new ideas for meals as I am always cooking the same things.
+- **SO THAT** I can try out new foods and get some excitement into mealtimes.
+*(random recommendations for new meals? Or section with ideas for meals? )*
+
+![Local Image](assets/images/readme-images/UserStory1/UserStory2.png)
+
+-There are 20 diverse recipes to pick from across a range of cultures, skills , cooking times and taste preferences
+
+
+
+
+**#03 AS A HOME CHEF**
+- **I WANT** to know how difficult something is to cook.
+- **SO THAT** I can improve my cooking skill and cook at a similar level.
+*(relates to difficulty)*
+
+![Local Image](assets/images/readme-images/UserStory1/UserStory1.1.png)
+
+-Navbar and carousel same as before allows users to pick difficulty with similar functionality to the time see above for the time . The only variation is starting with the hardest and going to the easiest as the same is improving cooking skill.
+
+
+**#04 AS A HOME CHEF**
+- **I WANT** to expand my palate and try new meals and recipes from different cultures.
+- **SO THAT** I can find new favorite meals.
+*(relates to categories, requires additional categories for other countries, Mexican, etc.)*
+
+
+
+
+**#05 AS A HOME CHEF**
+- **I WANT** to know how long a meal takes to cook.
+- **SO THAT** I know how much time I will be spending cooking.
+*(relates to the cooking time feature icon with text)*
+
+**#06 AS A HOME CHEF**
+- **I WANT** to be able to have my recipes on my phone/tablet in the kitchen with me.
+- **SO THAT** I can prop it up and follow the recipe without printing out instructions.
+*(relates to the responsiveness of the website)*
+
+**#07 AS A HOME CHEF**
+- **I WANT** to have a login profile and create an account.
+- **SO THAT** I can save and bookmark visited recipes and meals to look at later.
+
+**#08 AS A HOME CHEF**
+- **I WANT** to find the most popular meals to save time looking around for a meal.
+- **SO THAT** I can cook meals that reviews are positive, so I know that it is a quality meal.
+
+**#09 AS A HOME CHEF**
+- **I WANT** to have varied recipe pages.
+- **SO THAT** I can look for inspiration to cook a delicious meal with a busy schedule.
 
 - __Landing Page__
 
