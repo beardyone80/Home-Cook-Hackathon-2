@@ -14,3 +14,14 @@
     background-color: #c15f27b8;
     margin: 15px;
   }
+
+  /*Style for difficulty buttons */
+.button-easy {
+    background-color:green;
+    }
+    .button-moderate {
+    background-color:orange;
+    }
+    .button-expert {
+    background-color:red;
+    }
