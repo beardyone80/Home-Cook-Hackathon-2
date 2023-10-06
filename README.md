@@ -369,30 +369,18 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
 - Do not make changes to other people's branches.
 - Follow the established push procedure to maintain code integrity.
 
-## Progress for Day One
+-**Progress for Day One**
 
 - Wireframed the initial design of the website.
 - Worked on the design of the website and added the basic structure and components (navigation menu, footer, HTML boilerplate).
 
-## Individual Contributions
-
-### Paul
-- Responsible for UX.
-- Created a wireframe for the site design.
-- Started work on the main home page for non-logged-in visitors.
-- Added a carousel to the page.
-- Began work on the "logged in" home page using the wireframe for reference.
 
 
 
-### Stacey
-- Worked on parts of the 'About Us' page, including a hero image and text.
 
-### Matthew
-- Responsible for Documentation.
-- Created the sign-up page with a form.
-- Developed the contact page with a hero image, accordion, and form.
-- Ensured detailed documentation of the process and actions of the website.
+
+
+
 
 
 ## Table of Contents
@@ -405,10 +393,19 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
 ## Wireframing
 
 ##Paul  Homepage Rough Logged in Rough 
-![Local Image](assets/images/PB-balsamiq.JPG)
+![Local Image](assets/images/readme-images/PB-balsamiq.JPG)
 
 ## Matthew  Contats Us Page 
-![Local Image](assets/images/Wireframe%20of%20contact-us%20(1).JPG)
+![Local Image](assets/images/readme-images/Wireframe%20of%20contact-us%20(1).JPG)
+
+
+##Stacey Contact Us  
+![Local Image](assets/images/readme-images/PB-balsamiq.JPG)
+
+## Jesse Ross
+![Local Image](assets/images/readme-images/JR-wireframe-1.jpg)
+![Local Image](assets/images/readme-images/JR-wireframe-2.jpg)
+![Local Image](assets/images/readme-images/JR-wireframe-3.jpg)
 
 ### Visitor
 - Navbar with 'About,' 'Contact Us,' and 'Login' links.
@@ -468,20 +465,26 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
   - Handled all user tickets besides sign up.
   - Enforced adherence to the coding ethos procedures.
 
-**Lead Dev: Stacey ** 
+- **Lead Dev: Stacey** 
 - I compiled all of the code, tidied up, and organized them into one file.
 - I copied over the code into the main repository and ensured each page had the correct navbar and footer along with the hero image.
 
 
-## Project Progress
 
-### Day 2 Documentation  - Paul
+
+-**Documentation:Paul**
 
 - Worked on index.html and styled the carousel.
 - Fixed responsiveness issues.
 - Added a call-to-action (CTA) for small screen sizes.
 - Enhanced readability by adding blur and drop shadows to some captions.
 - Ensured that the footer and header were aligned with the rest of the site.
+
+-**UX:Matthew**
+- Changed the styling on the "Contact Us" page to a lighter blue.
+- Worked on the recipe page to add a slider and a flush group for ingredients.
+- Identified areas for improvement with responsiveness and took action to enhance it.
+- Made improvements to the navigation bar for better user experience.
 
 **Note:** Paul had to create a new repository as these efforts resulted in a merge error. 
 
