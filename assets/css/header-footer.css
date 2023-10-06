@@ -3,6 +3,11 @@ margin:0;
 display:content-box;}
 
 /*Styling the header */
+
+.navbar-title {
+    font-weight: 400;
+}
+
 .navbar-toggler-padding-left{padding-left: 0px;}
 .nav-header-small-devices {font-size: 25px; text-align: left;
     position:absolute;
