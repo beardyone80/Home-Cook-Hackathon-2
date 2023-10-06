@@ -1,5 +1,5 @@
 
-## Documentation BY Matthew was inclded in a google doc and this was used to feed much of the documentation below such as user stories .
+## Documentation by Matthew was inclded in a google doc and this was used to feed much of the documentation below such as user stories .
 ## DOCUMENTATION BY Paul created the read me and set up the initial structure 
 # Dish Discovery Project
 
@@ -47,10 +47,9 @@ Through discussion and the use of a persona and user stories we determined a num
 
 ![Contact Us Page](https://imageupload.io/ib/rSfHdskt2vpZD0V_1696548150.jpg)
 
-- __Another Feature__ 
+- __Logged in Home Page__ 
 
-  - PLACEHOLDER
-  - PLACEHOLDER
+-
 
 ![Another Feature](link to img share site)
 
