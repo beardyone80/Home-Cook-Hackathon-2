@@ -48,8 +48,10 @@ Through discussion and the use of a persona and user stories we determined a num
 ![Contact Us Page](https://imageupload.io/ib/rSfHdskt2vpZD0V_1696548150.jpg)
 
 - __Logged in Home Page__ 
-
--
+-Reused hero image . 
+-Carousel with the option to shift from user review ratings to difficulty and time taken .
+-Features the recipes on cards with easy access to the recipe links by clicking on a button.
+-Features demo images of what the recipes will look like.
 
 ![Another Feature](link to img share site)
 
