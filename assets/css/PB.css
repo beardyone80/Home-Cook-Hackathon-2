@@ -45,6 +45,20 @@
   font-size: 24px;    
 }
 
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  display: inline-block;
+  width: 5vw;
+  height: 5vw;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 100% 100%;
+}
+
+.carousel-img {
+filter: blur(2px);
+-webkit-filter: blur(2px);
+}
+
 /*-------------------------------------------- PB Callout styling*/
 
 .callout-container {
@@ -61,4 +75,21 @@
 
 .callout-button {
   padding-bottom: 8px;
+}
+
+/*------------------------------------------ Staceys header */
+
+.mask {
+background-color: rgba(0, 0, 0, 0.6);
+height: 100%;
+}
+.bg-image {
+background-image: url('../images/foodplatter.jpg'); /* Provide the correct file path */
+height: 400px;
+background-size: cover;
+background-position: center center;
+}
+.quote {
+background-color: #c15f27b8;
+margin: 15px;
 }
