@@ -1,4 +1,6 @@
 
+##Documentation BY Matthew was inclded in a google doc and this was used to feed much of the documentation below such as user stories . 
+## DOCUMENTATION BY Paul created the read me and set up the initial structure 
 # Dish Discovery Project
 
 # Dish Discoery
@@ -403,10 +405,10 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
 ## Wireframing
 
 ##Paul  Homepage Rough Logged in Rough 
-![Local Image](images/my-image.png)
+![Local Image](assets/images/PB-balsamiq.JPG)
 
 ## Matthew  Contats Us Page 
-![Local Image](images/my-image.png)
+![Local Image](assets/images/Wireframe%20of%20contact-us%20(1).JPG)
 
 ### Visitor
 - Navbar with 'About,' 'Contact Us,' and 'Login' links.
@@ -470,4 +472,16 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
 - I compiled all of the code, tidied up, and organized them into one file.
 - I copied over the code into the main repository and ensured each page had the correct navbar and footer along with the hero image.
 
-**Note:** Paul had to create a new repository as these efforts resulted in a merge error. Unfortunately, a considerable amount of work was lost, and the project manager worked overtime to sort it out.
+
+## Project Progress
+
+### Day 2 Documentation  - Paul
+
+- Worked on index.html and styled the carousel.
+- Fixed responsiveness issues.
+- Added a call-to-action (CTA) for small screen sizes.
+- Enhanced readability by adding blur and drop shadows to some captions.
+- Ensured that the footer and header were aligned with the rest of the site.
+
+**Note:** Paul had to create a new repository as these efforts resulted in a merge error. 
+
