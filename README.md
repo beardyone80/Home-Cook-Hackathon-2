@@ -152,6 +152,10 @@ Through discussion and the use of a persona and user stories we determined a num
 
 ### Validator Testing 
 
+Matthew Smith- 
+
+I have validated the recipe-file.html through using W3C validator to resolve errors within the code. There were warnings that the validator has identified however, these relate to the bootstrap classess. 
+
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 - CSS
