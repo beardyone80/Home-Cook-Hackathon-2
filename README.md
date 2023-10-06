@@ -70,34 +70,50 @@ Through discussion and the use of a persona and user stories we determined a num
 - **SO THAT** I can find new favorite meals.
 *(relates to categories, requires additional categories for other countries, Mexican, etc.)*
 
-
+![Local Image](assets/images/readme-images/UserStory1/UserStory3.png)
+-All recipes have a built in origin description and chosen from a range of cultural cooking styles . Feel free to scroll the recipe file to confirm this. 
 
 
 **#05 AS A HOME CHEF**
 - **I WANT** to know how long a meal takes to cook.
 - **SO THAT** I know how much time I will be spending cooking.
 *(relates to the cooking time feature icon with text)*
+![Local Image](assets/images/readme-images/UserStory1/UserStory3.png)
+
+- By the image you can see that their is an option in carousel to arrange by time 
+- Recipes were chosen with a focus lower cooking times besides a few.
+- This selection option is also available in the Navbar
 
 **#06 AS A HOME CHEF**
 - **I WANT** to be able to have my recipes on my phone/tablet in the kitchen with me.
 - **SO THAT** I can prop it up and follow the recipe without printing out instructions.
 *(relates to the responsiveness of the website)*
 
+-This user story is still a work in progress and can be seen in the error document . Most pages respond well to variations in screen sizes see below . 
+
+
 **#07 AS A HOME CHEF**
 - **I WANT** to have a login profile and create an account.
 - **SO THAT** I can save and bookmark visited recipes and meals to look at later.
+
+-Book marking recipes is for the next sprint 
+-We have created a fake login scenario so that we can show what would happen if we were to login. This opens the secondary  navbar and unvails the options to select the different recipes.
 
 **#08 AS A HOME CHEF**
 - **I WANT** to find the most popular meals to save time looking around for a meal.
 - **SO THAT** I can cook meals that reviews are positive, so I know that it is a quality meal.
 
+-In the sort by user reviews section which is the basis for the logged in page the menu tickets are ordered by user ratings. 
+![Local Image](assets/images/readme-images/UserStory1/UserStory8.png)
+
+
 **#09 AS A HOME CHEF**
 - **I WANT** to have varied recipe pages.
 - **SO THAT** I can look for inspiration to cook a delicious meal with a busy schedule.
-
+- Recipes are varied from lamb burgers to tiramasu it all depends on your cooking skill requirments and time restraints 
 - __Landing Page__
 
-  - The landing page features a header hero image with a clear enticing tagline and a button located directly below that will lead the user directly to the sign up page 
+  - The landing page features a header hero image with a clear enticing tagline and a button located directly below that will lead the user directly to the sign up page -which will work in the next sprint 
   - Below this is a carousel slider featuring captions that will relate to the user as defined by our user stories and persona. A button is featured again along with a tagline calling out the special discounted sign up offer. This button will lead directly to the sign up page again and is repeated on each slide of the carousel.
   
   ![Index Carousel](https://imageupload.io/ib/2oWVH7C5SXl0nLA_1696546770.jpg)
@@ -124,38 +140,14 @@ Through discussion and the use of a persona and user stories we determined a num
 -Features the recipes on cards with easy access to the recipe links by clicking on a button.
 -Features demo images of what the recipes will look like.
 
-![Another Feature](link to img share site)
-
-- __Another Feature__
-
-  - PLACEHOLDER
-  - PLACEHOLDER
-
-![Another Feature](link to img share site)
-
-- __Another Feature__
-
-  - PLACEHOLDER
-
-![Another Feature](link to img)
 
 
-### Features Left to Implement
-We also discussed and eventually decided to add to a 'desired feature' list for possible inclusion in future updates to the site
-- **Integrated Shopping List**
-PLACEHOLDER WHY WE DIDNT INCLUDE IT
-- **Cook along videos**
-PLACEHOLDER WHY WE DIDNT INCLUDE IT
+
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+-Please see the second working  read.me 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
 ### Validator Testing 
@@ -595,9 +587,15 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
 - Corrected merge errors from the previous day to maintain code integrity.
 - Styled the difficulty index for both logged-in and logged-out states.
 - Planned to complete validation for improved user experience.
+- A lot of the documentation was left until the last minute therefore the objectives of the documentation page and testing were not met. 
+
+
 
 **UX:Stacey**
 - Working on presentaiton for users .
 - Monitoring experence of users on our site. 
 
+
+**Final remarks** 
+- Live user testing was done in the third day indentifying a load of issues to be seen in the second read me file documented by Paul's found errors . As well as 2 live user testers.  Template writing unfilled is due to the lack of documentation throughout the projects journey. 
 
