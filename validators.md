@@ -1,4 +1,7 @@
 ##Validation ##
+**W3C** 
+-Matthew  I have validated the Recipe-file.html through using W3C to resolve Errors. There were warnings related to bootstrap classes and formatting. The name elements attached to the anchor elements are essential in the navigation of the website.
+![Local Image](assets/images/readme-images/UserStory1/W3%20Validator.png)
 **Lighthouse**
 ![Local Image](assets/images/readme-images/UserStory1/validators/Lighthouse.png)
 - Lighthouse indicates a high score for accessbility and best practices. However the performance score is low 
