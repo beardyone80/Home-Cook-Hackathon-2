@@ -405,10 +405,10 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
 ## Wireframing
 
 ##Paul  Homepage Rough Logged in Rough 
-![Local Image](assets/images/)
+![Local Image](assets/images/PB-balsamiq.JPG)
 
 ## Matthew  Contats Us Page 
-![Local Image](images/my-image.png)
+![Local Image](assets/images/Wireframe%20of%20contact-us%20(1).JPG)
 
 ### Visitor
 - Navbar with 'About,' 'Contact Us,' and 'Login' links.
