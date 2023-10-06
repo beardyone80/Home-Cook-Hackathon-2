@@ -601,5 +601,6 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
 
 
 **Final remarks** 
-- Live user testing was done in the third day indentifying a load of issues to be seen in the second read me file documented by Paul's found errors . As well as 2 live user testers.  Template writing unfilled is due to the lack of documentation throughout the projects journey. 
+- Live user testing was done in the third day indentifying a load of issues to be seen in the second read me file documented by Paul's found errors . As well as 2 live user testers.  Template writing unfilled is due to the lack of documentation throughout the projects journey. Validation is added with to the validators form. Final pushes done without group consensus
+  
 
