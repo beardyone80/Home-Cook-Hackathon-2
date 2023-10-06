@@ -1,5 +1,5 @@
 
-##Documentation BY Matthew was inclded in a google doc and this was used to feed much of the documentation below such as user stories . 
+## Documentation BY Matthew was inclded in a google doc and this was used to feed much of the documentation below such as user stories .
 ## DOCUMENTATION BY Paul created the read me and set up the initial structure 
 # Dish Discovery Project
 
@@ -400,7 +400,7 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
 
 
 ##Stacey Contact Us  
-![Local Image](assets/images/readme-images/PB-balsamiq.JPG)
+![Local Image](assets/images/readme-images/SR-Wireframe.jpeg)
 
 ## Jesse Ross
 ![Local Image](assets/images/readme-images/JR-wireframe-1.jpg)
@@ -412,6 +412,12 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
 - Paul's slider carousel to give a taste of what you can expect.
 - A brief introduction about the company.
 - Footer with social media links.
+
+### Logged In 
+-Update navbar with "organise by user rating, difficulty and time to cook. 
+-Re use most of structure from visitor login 
+- Establish a recipe file that links in an out with the organisation files 
+-Focus on the layout of cards and invidiual recipes .
 
 ## Coding Philosophy
 
@@ -426,6 +432,7 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
 ## Individual Contributions
 
 ### Jesse
+![Local Image](assets/images/readme-images/Project%20Board%20Day%201.png)
 - Role: Lead Dev.
 - Organized workloads and managed project progression.
 - Troubleshot technical issues.
@@ -463,7 +470,7 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
   - Completed the header and footer to a great standard.
   - Completed the recipe files.
   - Handled all user tickets besides sign up.
-  - Enforced adherence to the coding ethos procedures.
+  - Recipe files and time , difficulty + login were reverted to previous versions due to merge error
 
 - **Lead Dev: Stacey** 
 - I compiled all of the code, tidied up, and organized them into one file.
@@ -487,4 +494,38 @@ The site’s goal is to provide a collection of enjoyable, easy-to-follow recipe
 - Made improvements to the navigation bar for better user experience.
 
 **Note:** Paul had to create a new repository as these efforts resulted in a merge error. 
+
+## Progress for Day Three ##
+
+**Project-Manager:Matthew**
+
+- Sorted out layout of building block recipe pages. 
+-Ensured validation.
+- Adding FontAwesome titles. 
+- Final group testing monitoring . 
+- Review documentation and presentation . 
+**Lead Dev:Paul** 
+![Local Image](assets/images/readme-images/Project%20Board%20Day%203.png)
+
+- Monitored and controlled all pull requests to ensure code quality and consistency.
+- Sorted out image errors in the "Contact Us" section for a better user experience.
+- Delegated workload effectively among team members to maximize productivity.
+ -Conducted site-wide testing to identify and fix any issues
+-Reviewed and corrected relative pathnames where needed for proper functionality.
+
+
+**Documentation:Jesse Ross**
+
+- Uploaded images to the README for better documentation.
+- Sorted out project boards, added missing information, and updated existing details.
+- Fixed footer consistency across all pages for a unified look.
+- Added a carousel for convenient navigation options.
+- Corrected merge errors from the previous day to maintain code integrity.
+- Styled the difficulty index for both logged-in and logged-out states.
+- Planned to complete validation for improved user experience.
+
+**UX:Stacey**
+- Working on presentaiton for users .
+- Monitoring experence of users on our site. 
+
 
